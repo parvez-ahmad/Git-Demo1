@@ -11,6 +11,7 @@ public class App {
 
 	public void addMethod() {
 		System.out.println("new method is added");
+		System.out.println("Data is added through the branch");
 	}
 
 	public static void main(String[] args) {
